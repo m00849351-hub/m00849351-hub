@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Mehak 👋
 
-<!--
-**m00849351-hub/m00849351-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Frontend Developer | Software Development Student | Creative Writer
 
-Here are some ideas to get you started:
+✨ Passionate about creating responsive, user-friendly, and visually engaging web experiences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently improving backend development skills and exploring modern web technologies.
+
+## 🚀 Tech Stack
+- HTML5
+- CSS3
+- JavaScript
+- Responsive Web Design
+- C / C++
+- Python (Basics)
+- Git & GitHub
+
+## 🌸 About Me
+- Final-year Software Development student
+- Interested in UI/UX and frontend creativity
+- Love blending creativity with technology
+- Consistent learner and problem solver
+
+## 📫 Connect With Me
+📧 m00849351@gmail.com
