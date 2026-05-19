@@ -1,3 +1,5 @@
+![Banner](banner.jpeg)
+
 # Hi, I'm Mehak 👋
 
 💻 Frontend Developer | Software Development Student | Creative Writer
